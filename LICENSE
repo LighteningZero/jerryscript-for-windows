@@ -1,0 +1,24 @@
+For code by jerryscript-project under following folder/file:
+- CMakeFiles/
+- jerry-core/
+- jerry-ext/
+- jerry-libm/
+- jerry-main/
+- jerry-port/
+- lib/
+- bin/jerry.exe
+- CMakeCache.txt
+- Makefile
+- cmake_install.cmake
+These files(as well as files under these folders) are under Apache-2.0 License at most.
+However, there are still some of them under other license, you get get a view of it at https://github.com/jerryscript-project/jerryscript
+
+===
+
+For code by cygwin project under following folder/file:
+- bin/cygwin1.dll 
+- cygwin1.dll
+These files(as well as files under these folders) are under GPL-2.0 Cygwin-exception
+You get get a view of it at https://github.com/cygwin/cygwin
+
+===
