@@ -13,7 +13,7 @@ Then jerryscript is installed in your compiler.
 
 Full command:
 
-```
+```sh
 git clone https://github.com/LighteningZero/jerryscript-for-windows.git
 make
 make install
