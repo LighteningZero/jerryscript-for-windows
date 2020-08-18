@@ -3,6 +3,14 @@ A build version of [jerryscript](https://github.com/jerryscript-project/jerryscr
 
 # Installation
 
+## Dependency
+
+1. gcc / g++
+
+2. gcc make
+
+## Install Steps
+
 1. Clone this repo `git clone https://github.com/LighteningZero/jerryscript-for-windows.git`
 
 2. Make `make`
