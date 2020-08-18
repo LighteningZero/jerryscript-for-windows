@@ -5,9 +5,9 @@ A build version of [jerryscript](https://github.com/jerryscript-project/jerryscr
 
 ## Dependency
 
-1. gcc / g++
+1. `gcc / g++`
 
-2. gcc make
+2. `gcc make`
 
 ## Install Steps
 
