@@ -13,9 +13,9 @@ A build version of [jerryscript](https://github.com/jerryscript-project/jerryscr
 
 1. Clone this repo `git clone https://github.com/LighteningZero/jerryscript-for-windows.git`
 
-2. Make `make`
+2. Run make `make`
 
-3. Make install `make install`
+3. Run make install `make install`
 
 Then jerryscript is installed in your compiler.
 
